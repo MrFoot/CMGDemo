@@ -1,0 +1,4 @@
+repository "CMGDemo@linzhiwang7@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
