@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: MiniGameConfig
   m_EditorClassIdentifier: 
   ProjectConf:
-    projectName: 
-    Appid: 
+    projectName: PuppyCookie
+    Appid: wx1c38c68e54bec9dd
     CDN: 
-    assetLoadType: 0
+    assetLoadType: 1
     compressDataPackage: 0
     VideoUrl: 
-    DST: 
+    DST: /Users/flynnli/Documents/GitHub/CMGDemo/WASM
     StreamCDN: 
     bundleHashLength: 32
     bundlePathIdentifier: StreamingAssets;
